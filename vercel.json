@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd uro-app && npm install && npm run build",
-  "outputDirectory": "uro-app/.vercel/output",
-  "framework": null
-}
